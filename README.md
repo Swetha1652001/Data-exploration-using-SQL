@@ -1,2 +1,2 @@
-# demo\
-Recollecting basic sql functions using Netflix data.Hands on experience in Microsoft Management Studio.
+# Task 1
+## Recollecting basic SQL functions using Netflix data.Hands-on experience in Microsoft Management Studio.
